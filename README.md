@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F4E37,50:A67C6B,100:D8B4A0&height=220&section=header&text=Beatriz%20Costa&fontSize=48&fontColor=FFF8F0&animation=fadeIn&fontAlignY=38&desc=code%20%E2%80%A2%20books%20%E2%80%A2%20coffee%20%E2%80%A2%20dreams&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F4E37,50:A67C6B,100:D8B4A0&height=220&section=header&text=Beatriz%20Costa&fontSize=48&fontColor=FFF8F0&animation=fadeIn&fontAlignY=38&desc=c%C3%B3digo%20%E2%80%A2%20livros%20%E2%80%A2%20caf%C3%A9%20%E2%80%A2%20criatividade&descAlignY=58&descSize=17" width="100%"/>
 
 <br>
 
-### ୨୧ `💻 ADS student • developer in progress` ୨୧
+### ୨୧ `💻 estudante de ADS • desenvolvedora em formação` ୨୧
 
-**learning to turn ideas into code ♡**
+**aprendendo a transformar ideias em código ♡**
 
 <br>
 
@@ -20,38 +20,38 @@
 
 ---
 
-## 🌙 about me
+## 🌙 sobre mim
 
 ```text
 ╭──────────────────────────────────────────────────────╮
 │                                                      │
-│   ୨୧ hi, i'm beatriz                               │
+│   ୨୧ oi, eu sou a Beatriz                           │
 │                                                      │
-│   🎓 ADS student @ IFMA                             │
-│   💻 learning software development                  │
-│   📚 book lover & project enthusiast                │
-│   🎨 trying to make things pretty AND functional   │
-│   ☕ powered by coffee and questionable code        │
+│   🎓 estudante de ADS @ IFMA                        │
+│   💻 aprendendo desenvolvimento de software         │
+│   📚 apaixonada por livros e projetos               │
+│   🎨 tentando deixar tudo bonito E funcional        │
+│   ☕ movida a café e códigos duvidosos              │
 │                                                      │
 ╰──────────────────────────────────────────────────────╯
 ```
 
-I'm currently building my foundations in programming, web development and software engineering — one bug at a time ♡
+Atualmente estou construindo minha base em programação, desenvolvimento web e engenharia de software — um bug de cada vez ♡
 
-> `if it works, don't touch it... unless it needs to be prettier`
+> `se funciona, não mexe... a não ser que precise ficar mais bonito`
 
 ---
 
-## 🧸 currently learning
+## 🧸 estou aprendendo
 
 <div align="center">
 
-| 🌐 Web | 🐍 Programming | 🛠️ Tools |
-| :----: | :------------: | :-------: |
-|  HTML  |     Python     |    Git    |
-|   CSS  |      Java      |   GitHub  |
-|        |        C       |  VS Code  |
-|        |                |   Linux   |
+| 🌐 Desenvolvimento Web | 🐍 Programação | 🛠️ Ferramentas |
+| :--------------------: | :------------: | :-------------: |
+|          HTML          |     Python     |       Git       |
+|           CSS          |      Java      |      GitHub     |
+|                        |        C       |     VS Code     |
+|                        |                |      Linux      |
 
 </div>
 
@@ -65,46 +65,46 @@ I'm currently building my foundations in programming, web development and softwa
 
 ---
 
-## 📚 featured project
+## 📚 projeto em destaque
 
 <div align="center">
 
 # ✦ ILLUMINIS ✦
 
-### *a little place for people who love books*
+### *um cantinho para quem ama livros*
 
 </div>
 
-**Illuminis** is an academic project developed with my group during ADS
+**Illuminis** é um projeto acadêmico desenvolvido em grupo durante o curso de ADS
 
-the idea is to create a digital library where users can **explore books, discover new titles and organize their collection** ♡
+A ideia é criar um acervo bibliotecário digital onde os usuários possam **explorar livros, descobrir novos títulos e organizar sua coleção** ♡
 
 ```text
-📖 project       → digital library
-🎨 focus         → user experience & design
-🌐 technologies  → HTML • CSS
-👩🏻‍💻 team         → 3 students
-🔧 workflow      → Git • GitHub • branches
+📖 projeto        → acervo bibliotecário digital
+🎨 foco           → experiência do usuário e design
+🌐 tecnologias    → HTML • CSS
+👩🏻‍💻 equipe        → 3 estudantes
+🔧 desenvolvimento → Git • GitHub • branches
 ```
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/📚%20VIEW%20ILLUMINIS-6F4E37?style=for-the-badge\&labelColor=4A3325)](https://github.com/beatrizzcdev/illuminis-acervo)
+[![Ver projeto](https://img.shields.io/badge/📚%20VER%20O%20ILLUMINIS-6F4E37?style=for-the-badge\&labelColor=4A3325)](https://github.com/beatrizzcdev/illuminis-acervo)
 
 </div>
 
 ---
 
-## 🌱 my developer journey
+## 🌱 minha jornada na programação
 
 ```text
-                    ✦ BEATRIZ'S JOURNEY ✦
+                    ✦ JORNADA DA BEATRIZ ✦
 
                             🎓
                            ADS
                             │
                             ▼
-                    🧠 programming logic
+                    🧠 lógica de programação
                             │
               ┌─────────────┼─────────────┐
               ▼             ▼             ▼
@@ -112,7 +112,7 @@ the idea is to create a digital library where users can **explore books, discove
               │             │             │
               └─────────────┼─────────────┘
                             ▼
-                       🌐 Web Dev
+                     🌐 desenvolvimento web
                             │
                        HTML • CSS
                             │
@@ -120,39 +120,39 @@ the idea is to create a digital library where users can **explore books, discove
                      🔧 Git & GitHub
                             │
                             ▼
-                      🐧 Linux
+                       🐧 Linux
                             │
                             ▼
-                       🚀 projects
+                        🚀 projetos
 ```
 
 ---
 
-## 🎀 things i like
+## 🎀 coisas que eu gosto
 
 <div align="center">
 
-📚 **books**　•　💻 **coding**　•　🎧 **music**　•　🎨 **design**　•　🌙 **aesthetic things**
+📚 **livros**　•　💻 **programação**　•　🎧 **música**　•　🎨 **design**　•　🌙 **coisas bonitas**
 
 </div>
 
-I like learning by actually **building things**, especially when I can mix technology with creativity
+Gosto de aprender **colocando a mão na massa**, principalmente quando posso misturar tecnologia e criatividade
 
-so yes, I'll probably spend 40 minutes fixing CSS and another 40 minutes choosing the right shade of brown 😭
+Então sim, provavelmente vou passar 40 minutos corrigindo um problema no CSS e mais 40 escolhendo o tom perfeito de marrom 😭
 
 ---
 
-## 🪴 currently building
+## 🪴 no momento
 
 ```text
 ╭─────────────────────────────────────────────╮
 │                                             │
-│  📚 academic projects                       │
-│  🌐 web development skills                  │
-│  🐍 programming fundamentals                │
-│  ☕ object-oriented programming             │
-│  🔧 Git & GitHub workflow                   │
-│  🐧 Linux experience                        │
+│  📚 projetos acadêmicos                     │
+│  🌐 desenvolvimento web                     │
+│  🐍 fundamentos de programação              │
+│  ☕ programação orientada a objetos         │
+│  🔧 Git & GitHub                            │
+│  🐧 Linux                                   │
 │                                             │
 ╰─────────────────────────────────────────────╯
 ```
@@ -161,7 +161,7 @@ so yes, I'll probably spend 40 minutes fixing CSS and another 40 minutes choosin
 
 <div align="center">
 
-### ୨୧ `still learning • still building • still figuring it out` ୨୧
+### ୨୧ `aprendendo • construindo • descobrindo` ୨୧
 
 <br>
 
@@ -169,11 +169,11 @@ so yes, I'll probably spend 40 minutes fixing CSS and another 40 minutes choosin
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=beatrizzcdev\&color=8B6F61\&style=flat-square\&label=visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=beatrizzcdev\&color=8B6F61\&style=flat-square\&label=visitas)
 
 <br>
 
-**thanks for stopping by ♡**
+**obrigada por passar por aqui ♡**
 
 </div>
 
